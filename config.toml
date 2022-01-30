@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = " "
+title = "アド街・カタリナ・未確認生物"
 
 theme = "mainroad"
 paginate = 20
