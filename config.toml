@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = ""
+title = " "
 
 theme = "mainroad"
 paginate = 20
