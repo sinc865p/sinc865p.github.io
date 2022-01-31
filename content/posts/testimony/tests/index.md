@@ -5,10 +5,11 @@ categories: ["hugo"]
 tags: ["test"]
 ---
 
+テストですー
 <div class="yswpsb-container yswpsb-type-r">
    <div class="yswpsb-icon">
        <figure class="yswpsb-image">
-           <img src="./profile.png" alt=""><br />
+           <img src="./profile.png" alt="">
        </figure>
        <div class="yswpsb-name"> </div>
    </div>
@@ -16,6 +17,5 @@ tags: ["test"]
        <div class="yswpsb-balloon">やっほー</div>
    </div>
 </div>
-
 あけましておめでとうございます！
 
