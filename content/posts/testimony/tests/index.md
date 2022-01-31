@@ -6,7 +6,7 @@ tags: ["test"]
 ---
 
 テストですー
-<div class="yswpsb-container yswpsb-type-r">
+<div class="yswpsb-container yswpsb-type-l">
    <div class="yswpsb-icon">
        <figure class="yswpsb-image">
            <img src="./profile.png" alt="">
