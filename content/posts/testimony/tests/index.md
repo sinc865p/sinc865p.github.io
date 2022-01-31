@@ -14,7 +14,7 @@ tags: ["test"]
        <div class="yswpsb-name"> </div>
    </div>
    <div class="yswpsb-content">
-        <div class="yswpsb-balloon">リピリピさん、今日は何のはなしですか？</div>
+        <div class="yswpsb-balloon">リピリピさん、今日は何の話ですか？</div>
    </div>
 </div>
 あけましておめでとうございます！
