@@ -50,6 +50,8 @@
     background-color: #fff;
     padding: .5em 1em;
     border-radius: 4px;
+    margin-top:auto;
+    margin-bottom: auto;
 }
 .yswpsb-balloon:after,
 .yswpsb-balloon:before {

@@ -14,7 +14,7 @@ tags: ["test"]
        <div class="yswpsb-name"> </div>
    </div>
    <div class="yswpsb-content">
-       <div class="yswpsb-balloon">やっほー</div>
+        <div class="yswpsb-balloon">やっほー</div>
    </div>
 </div>
 あけましておめでとうございます！
