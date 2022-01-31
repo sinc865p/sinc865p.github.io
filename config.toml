@@ -42,9 +42,10 @@ paginate = 20
 
 # メインメニュー
 [[Menus.main]]
-  Name = "ホーム"
+  Name = "TOP"
   URL = "/"
-[[Menus.main]]
-  Name = "投稿一覧"
-  URL = "/posts/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
