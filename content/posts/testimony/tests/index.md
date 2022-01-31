@@ -7,9 +7,9 @@ tags: ["test"]
 
 <div class="yswpsb-container yswpsb-type-r">
    <div class="yswpsb-icon">
-       <figure class="yswpsb-image"><br />
+       <figure class="yswpsb-image">
            <img src="./profile.png" alt=""><br />
-       </figure><br />
+       </figure>
        <div class="yswpsb-name"> </div>
    </div>
    <div class="yswpsb-content">
