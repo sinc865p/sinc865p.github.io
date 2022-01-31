@@ -8,7 +8,7 @@ tags: ["test"]
 {{<div class="yswpsb-container yswpsb-type-r">
    <div class="yswpsb-icon">
        <figure class="yswpsb-image"><br />
-           <img src="img/profile.png" alt=""><br />
+           <img src="profile.png" alt=""><br />
        </figure><br />
        <div class="yswpsb-name"> </div>
    </div>
