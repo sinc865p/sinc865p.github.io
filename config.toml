@@ -19,7 +19,7 @@ paginate = 20
     avatar = "img/profile.png"
 
 [Params]
-    customCSS = ["css/custom.css"]
+    customCSS = ["css/custom.css","css/ballon.css"]
     copyright = "Author"
     readmore = true
     authorbox = true
