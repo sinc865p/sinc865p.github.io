@@ -23,8 +23,6 @@
     margin-top: 0;
 }
 .yswpsb-icon {
-    height: auto;
-    max-width: auto;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 50px;
     flex: 0 0 50px;
@@ -32,7 +30,6 @@
 .yswpsb-image {
     margin:0;
     padding:0;
-    border-radius: 50%;
     overflow: hidden;
 }
 .yswpsb-image img {
