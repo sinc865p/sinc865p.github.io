@@ -40,3 +40,11 @@ paginate = 20
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
+# メインメニュー
+[[Menus.main]]
+  Name = "ホーム"
+  URL = "/"
+[[Menus.main]]
+  Name = "投稿一覧"
+  URL = "/posts/"
+
