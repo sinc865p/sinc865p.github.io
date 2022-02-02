@@ -9,7 +9,7 @@ tags: ["test"]
 <div class="yswpsb-container yswpsb-type-l">
    <div class="yswpsb-icon">
        <figure class="yswpsb-image">
-           <img src="./asahina4.png" alt="">
+           <img src="./asahina.png" alt="">
        </figure>
        <div class="yswpsb-name"> </div>
    </div>
